@@ -289,8 +289,8 @@ export default function AdminAppConfigurationClient({
                   {labelForStorage('cloudflare-r2')}:
                   {' '}
                   <AdminLink
-                  // eslint-disable-next-line max-len
-                    href="https://github.com/sambecker/exif-photo-blog#cloudflare-r2"
+                   
+                    href="https://github.com/siyu/exif-photo-blog#cloudflare-r2"
                     externalIcon
                   >
                     create/configure bucket
@@ -302,7 +302,7 @@ export default function AdminAppConfigurationClient({
                   {labelForStorage('aws-s3')}:
                   {' '}
                   <AdminLink
-                    href="https://github.com/sambecker/exif-photo-blog#aws-s3"
+                    href="https://github.com/siyu/exif-photo-blog#aws-s3"
                     externalIcon
                   >
                     create/configure bucket
@@ -353,7 +353,7 @@ export default function AdminAppConfigurationClient({
             {' '}
             <AdminLink
             // eslint-disable-next-line max-len
-              href="https://github.com/sambecker/exif-photo-blog?tab=readme-ov-file#supported-languages"
+              href="https://github.com/siyu/exif-photo-blog?tab=readme-ov-file#supported-languages"
             >
               supported languages
             </AdminLink>

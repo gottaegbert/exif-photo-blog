@@ -11,7 +11,7 @@ export default function RepoLink() {
       <span className="hidden sm:inline-block">
         {appText.misc.repo}
       </span>
-      <Link
+      {/* <Link
         href={TEMPLATE_REPO_URL}
         target="_blank"
         className={clsx(
@@ -25,7 +25,7 @@ export default function RepoLink() {
           className="translate-y-[0.5px] hidden xs:inline-block"
         />
         {TEMPLATE_REPO_NAME}
-      </Link>
+      </Link> */}
     </span>
   );
 }

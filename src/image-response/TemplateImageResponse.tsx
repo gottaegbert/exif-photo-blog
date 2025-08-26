@@ -76,13 +76,13 @@ export default function TemplateImageResponse({
               </div>
             </div>
           </div>
-          <div style={{
+          {/* <div style={{
             display: 'flex',
             justifyContent: 'flex-end',
             flexGrow: 1,
           }}>
-            photos.sambecker.com
-          </div>
+            siyuphotos.vercel.app
+          </div> */}
         </div>}
       <div style={{
         display: 'flex',

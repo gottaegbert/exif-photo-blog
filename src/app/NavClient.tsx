@@ -99,9 +99,9 @@ export default function NavClient({
                 'grow text-right min-w-0',
                 'translate-y-[-1px]',
               )}>
-                <div className="truncate overflow-hidden select-none">
+                {/* <div className="truncate overflow-hidden select-none">
                   {renderLink(navTitle, PATH_ROOT)}
-                </div>
+                </div> */}
                 {navCaption &&
                   <div className={clsx(
                     'hidden sm:block truncate overflow-hidden',
